@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Fernando 🧑‍💻
 
-<!--
-**fernandojrdev/fernandojrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-On Front-End Developer - Passionate about HTML, CSS, JavaScript and Responsive Design - Studying React, Vue.js, Angular, TypeScript, SASS, TailwindCSS and Web Accessibility - Experienced with Git and Hardware.
 
-Here are some ideas to get you started:
+- - 🎯 **Goals for 2025:**
+  - Enhance my English proficiency.
+  - Contribute to open source projects.
+  - Learn a new programming language.
+  - Buy cool stuff 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Constantly implementing improvements and adding new features to [Growth Supplements](https://www.gsuplementos.com.br/) eCommerce.
+- Engage in small-scale projects to explore and master new languages. [Here's an example: Bitcoin API Fetcher](https://github.com/fernandojrdev/bitcoin-api-fetcher) 
+- New eCommerce store built from scratch on Shopify.
+
+## Projects
+
+Here are a few projects I've been working on:
+
+- [MC Prensado]((https://mcprensado.com.br/links)) - A website for a local business built with Vue.js and hosted on Vercel.
+
+## Connect with Me
+
+- [LinkedIn]((https://www.linkedin.com/in/feferjr/))
+- [Personal Website]((https://fernandojr.vercel.app/))
+- [E-Mail: fernandomtcjunior@gmail.com](mailto:fernandomtcjunior@gmail.com)
