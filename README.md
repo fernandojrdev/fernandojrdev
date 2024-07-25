@@ -22,6 +22,6 @@ Here are a few projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/feferjr/))
-- [Personal Website]((https://fernandojr.vercel.app/))
+- [LinkedIn](https://www.linkedin.com/in/feferjr/)
+- [Personal Website](https://fernandojr.vercel.app/)
 - [E-Mail: fernandomtcjunior@gmail.com](mailto:fernandomtcjunior@gmail.com)
