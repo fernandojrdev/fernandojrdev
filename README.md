@@ -18,7 +18,7 @@ Hands-On Front-End Developer - Passionate about HTML, CSS, JavaScript and Respon
 
 Here are a few projects I've been working on:
 
-- [MC Prensado]((https://mcprensado.com.br/links)) - A website for a local business built with Vue.js and hosted on Vercel.
+- [MC Prensado](https://mcprensado.com.br/links) - A website for a local business built with Vue.js and hosted on Vercel.
 
 ## Connect with Me
 
