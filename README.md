@@ -2,7 +2,7 @@
 
 Hands-On Front-End Developer - Passionate about HTML, CSS, JavaScript and Responsive Design - Studying React, Vue.js, Angular, TypeScript, SASS, TailwindCSS and Web Accessibility - Experienced with Git and Hardware.
 
-- - 🎯 **Goals for 2025:**
+🎯 **Goals for 2025:**
   - Enhance my English proficiency.
   - Contribute to open source projects.
   - Learn a new programming language.
