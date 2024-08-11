@@ -12,7 +12,7 @@ Hands-On Front-End Developer - Passionate about HTML, CSS, JavaScript and Respon
 
 - Constantly implementing improvements and adding new features to [Growth Supplements](https://www.gsuplementos.com.br/) eCommerce.
 - Engage in small-scale projects to explore and master new languages. [Here's an example: Bitcoin API Fetcher](https://github.com/fernandojrdev/bitcoin-api-fetcher) 
-- New eCommerce store built from scratch on Shopify.
+- New eCommerce store built from scratch on Shopify. [Vision Shapes - 3D eCommerce](https://visionshapes.com.br/)
 
 ## Projects
 
